@@ -1,0 +1,6 @@
+flask
+pymupdf
+pydantic
+google-genai
+sqlalchemy
+python-dotenv
